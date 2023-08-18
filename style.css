@@ -1,0 +1,138 @@
+span{
+    color: chocolate;
+}
+.heading-1{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: ;
+    background-repeat: no-repeat;
+    background-position: 0;
+}
+.vasa{
+    font-family: 'Rubik', sans-serif
+}
+.page-1{
+    padding-left: 5%;
+    display: flex;
+    margin-left: 5%;
+}
+.first-1{
+    width: 50%;
+    text-align: start;
+    margin-left: 10%;
+
+}
+.link-style{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+img{
+    width: 60%;
+}
+.first-2{
+    width: 50%;
+    margin-left: 20%;
+}
+.part-2{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.commonheading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: darkblue;
+}
+.box-1{
+    width: 50%;
+    border-radius: 10px;
+    margin: 2%;
+    padding: 15px;
+    background-color: lightpink;
+    text-align: start;
+}
+.box-2{
+    width: 50%;
+    border-radius: 10px;
+    margin: 2%;
+    padding: 15px;
+    background-color: lightskyblue;
+    text-align: start;
+}
+.box-3{
+    width: 50%;
+    border-radius: 10px;
+    margin: 2%;
+    padding: 15px;
+    background-color: lightcyan;
+    text-align: start;
+}
+.flex-none{
+    text-align: center;
+}
+.page-3{
+    display: flex;
+}
+.third-1{
+    margin-left: 15%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    width: 70%;;
+}
+.third-2{
+    margin-top: 2%;
+    margin-right: 15%;
+    width: 50%;
+    text-align: start;
+}
+.heading-3{
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.page-4{
+    display: flex;
+}
+.heading-4{
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: navy;
+}
+.forth-1{
+    margin-left: 15%;
+    margin-top: 5%;
+    max-width: 50%;
+}
+.forth-2{
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 70%;
+}
+.page-5{
+    display: flex;
+    width: 100%;
+}
+.heading-5
+{
+    text-align: start;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fifth-1{
+    width: 70%;
+}
+.fifth-2{
+    text-align: start;
+    margin-right: 10%;
+    margin-top: 20%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.csk{
+    font-family: 'Lobster', cursive;
+}
