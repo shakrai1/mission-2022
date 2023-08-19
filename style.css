@@ -29,15 +29,15 @@ span{
     padding: 10px 30px;
     border-radius: 10px;
 }
-img{
+.first-2{
     
 }
 img{
-    width: 60%;
+    width: %;
 }
 .first-2{
     width: 50%;
-    margin-left: 20%;
+    margin-left: 10%;
 }
 .part-2{
     display: flex;
@@ -85,10 +85,14 @@ img{
     margin-top: 2%;
     width: 70%;;
 }
+.first-3{
+    width: 90%;
+}
+
 .third-2{
     margin-top: 2%;
     margin-right: 15%;
-    width: 50%;
+    width: 80%;
     text-align: start; 
 }
 .heading-3{
@@ -107,29 +111,37 @@ img{
     margin-left: 15%;
     margin-top: 5%;
     max-width: 50%;
+    padding-right: 2%;
 }
 .forth-2{
     margin-left: 5%;
     margin-top: 5%;
+    margin-right: 7%;
+
+}
+.first-4{
     width: 70%;
 }
 .page-5{
     display: flex;
     width: 100%;
 }
-.heading-5
-{
+.heading-5{
     text-align: start;
     font-weight: 700;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .fifth-1{
-    width: 70%;
+    width: 
+}
+.first-5{
+    width: 50%;
+    margin-left: 10%;
 }
 .fifth-2{
     text-align: start;
-    margin-right: 10%;
-    margin-top: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
 }
 footer{
     text-align: center;
